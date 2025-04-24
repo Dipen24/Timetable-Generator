@@ -1,0 +1,27 @@
+TIMETABLE GENERATOR - CURRENT LIMITATIONS
+
+1. Course Credit Logic
+   - Currently treats all credits as lecture hours (e.g., 4 credits = 4 lectures)
+   - Needs to handle different credit structures:
+     * Example: 4 credits might mean 3 lectures + 1 lab session
+     * Different courses may have different credit-to-class distributions
+
+2. Manual Timetable Creation
+   - Currently only supports automatic generation
+   - Need to consider adding:
+     * Option to manually add classes to specific days/slots
+     * Ability to drag and drop classes
+     * Manual editing of automatically generated timetable
+   - This feature might still be useful even after fixing generation logic as it provides:
+     * Flexibility for special cases
+     * Quick modifications without regeneration
+     * Emergency adjustments
+
+Note: These limitations should be addressed after consulting with teachers and administrators to understand:
+- Specific credit hour distribution rules
+- Preferred level of manual control over timetable
+- Institution-specific requirements
+
+Last Updated: [Current Date]
+
+in admin, add option to add number of lectures, tutorials and labs, then generate timetable accordingly.

@@ -1,0 +1,72 @@
+Course Code,Component,Section,Day,Start Time,End Time
+CS F372,Lecture,1,Monday,10:00,11:00,F104
+CS F372,Lecture,1,Wednesday,10:00,11:00,F104
+CS F372,Lecture,1,Friday,10:00,11:00,F104
+ME F318,Lecture,1,Tuesday,09:00,10:00,F107
+ME F318,Lecture,1,Thursday,09:00,10:00,F107
+ME F318,Tutorial,1,Tuesday,14:00,15:00,F204
+ME F318,Tutorial,2,Tuesday,14:00,15:00,F201
+ME F318,Lecture,1,Tuesday,09:00,10:00,F107
+ME F318,Lecture,1,Thursday,09:00,10:00,F108
+ME F318,Lecture,2,Monday,08:00,08:00,F107
+ME F318,Lecture,2,Monday,08:00,08:00,F107
+ME F318,Tutorial,1,Tuesday,14:00,15:00,F204
+ME F318,Tutorial,2,Monday,08:00,08:00,F107
+ME F318,Lab,1,Tuesday,14:00,15:00,F201
+ME F318,Lab,2,Monday,08:00,08:00,F107
+ME F318,Lab,3,Monday,08:00,08:00,F107
+ME F318,Lab,4,Monday,08:00,08:00,F107
+ME F319,Lecture,1,Monday,11:00,12:00,F103
+ME F319,Lecture,1,Wednesday,11:00,12:00,F103
+ME F319,Lecture,1,Friday,11:00,12:00,F103
+ME F319,Tutorial,1,Monday,08:00,09:00,F107
+ME F319,Tutorial,2,Monday,08:00,09:00,F108
+ME F320,Lecture,1,Monday,12:00,13:00,F107
+ME F320,Lecture,1,Wednesday,12:00,13:00,F107
+ME F320,Lecture,1,Friday,12:00,13:00,F107
+ME F320,Lecture,2,Monday,12:00,13:00,F108
+ME F320,Lecture,2,Wednesday,12:00,13:00,F108
+ME F320,Lecture,2,Friday,12:00,13:00,F108
+ME F320,Tutorial,1,Wednesday,08:00,09:00,F201
+ME F320,Tutorial,2,Monday,08:00,08:00,F107
+ME F320,Lecture,1,Monday,12:00,13:00,F107
+ME F320,Lecture,1,Wednesday,12:00,13:00,F107
+ME F320,Lecture,1,Friday,12:00,13:00,F107
+ME F320,Lecture,2,Monday,12:00,13:00,F108
+ME F320,Lecture,2,Wednesday,12:00,13:00,F108
+ME F320,Lecture,2,Friday,12:00,13:00,F108
+ME F320,Tutorial,1,Wednesday,08:00,09:00,F201
+ME F320,Tutorial,2,Wednesday,08:00,09:00,F204
+ME F318,Lecture,1,Tuesday,09:00,10:00,F107
+ME F318,Lecture,1,Thursday,09:00,10:00,F107
+ME F318,Lecture,2,Tuesday,09:00,10:00,F108
+ME F318,Lecture,2,Thursday,09:00,10:00,F108
+ME F318,Tutorial,1,Tuesday,14:00,15:00,F201
+ME F318,Tutorial,2,Tuesday,14:00,15:00,F204
+ME F318,Lab,1,Tuesday,15:00,17:00,D208 B
+ME F318,Lab,2,Tuesday,11:00,13:00,D208 B
+ME F318,Lab,3,Friday,16:00,18:00,D208 B
+ME F318,Lab,4,Thursday,11:00,13:00,D208 B
+ME F341,Lecture,1,Tuesday,10:00,11:00,F107
+ME F341,Lecture,1,Thursday,10:00,11:00,F107
+ME F341,Lecture,2,Tuesday,10:00,11:00,F108
+ME F341,Lecture,2,Thursday,10:00,11:00,F108
+ME F341,Tutorial,1,Friday,08:00,09:00,F107
+ME F341,Tutorial,2,Friday,08:00,09:00,F108
+ME F341,Lab,1,Tuesday,15:00,17:00,E122
+ME F341,Lab,2,Tuesday,11:00,13:00,E122
+ME F341,Lab,3,Thursday,11:00,13:00,E122
+ME F341,Lab,4,Wednesday,16:00,18:00,E122
+CS F213,Lecture,1,Monday,09:00,10:00,F106
+CS F213,Lecture,1,Wednesday,09:00,10:00,F106
+CS F213,Lecture,1,Friday,09:00,10:00,F106
+CS F213,Lecture,1,Monday,09:00,10:00,F106
+CS F213,Lecture,1,Wednesday,09:00,10:00,F106
+CS F213,Lecture,1,Friday,09:00,10:00,F106
+CS F213,Lab,1,Tuesday,11:00,13:00,D301
+CS F213,Lab,2,Thursday,11:00,13:00,D301
+CS F213,Lab,3,Friday,16:00,18:00,D301
+CS F213,Lab,4,Wednesday,16:00,18:00,D301
+test,Lecture,1,Monday,09:00,10:00,F107
+test,Lecture,1,Wednesday,09:00,10:00,F107
+test,Lecture,1,Friday,09:00,10:00,F107

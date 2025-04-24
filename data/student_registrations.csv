@@ -1,0 +1,15 @@
+username,course_code,component,section
+student1,CS F213,Lecture,1
+student1,CS F213,Lab,3
+student1,ME F320,Tutorial,2
+student1,ME F320,Lecture,1
+student1,ME F341,Tutorial,1
+student1,ME F341,Lecture,1
+student1,ME F341,Lab,4
+student1,ME F319,Tutorial,2
+student1,ME F319,Lecture,1
+student1,ME F318,Tutorial,2
+student1,ME F318,Lecture,1
+student1,ME F318,Lab,4
+student1,CS F372,Lecture,1
+student2,test,Lecture,1

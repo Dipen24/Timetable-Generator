@@ -1,0 +1,2 @@
+# Java Development Kit (JDK) 11 or higher
+# No additional Python packages required as this is a Java project 
